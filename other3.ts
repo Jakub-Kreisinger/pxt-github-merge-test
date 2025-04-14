@@ -1,4 +1,4 @@
-namespace Other2 {
+namespace Other3 {
     export let y: number;
 
     x = 8 + 5
